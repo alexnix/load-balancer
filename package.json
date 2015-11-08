@@ -1,0 +1,12 @@
+{
+  "name": "load-balancer",
+  "version": "1.0.0",
+  "description": "DevAcademy Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Alexandru Niculae",
+  "license": "ISC"
+}
